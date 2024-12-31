@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sohan5002</h1>
 <h3 align="center">Backend Engineer | Architecting Scalable and Efficient Solutions for Tomorrow</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohan5002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 ---
 
