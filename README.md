@@ -62,7 +62,7 @@ Ready to take the next step in our collaboration? You can contact me through:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan5002&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Sohan5002&theme=radical" alt="GitHub Streak" />
+  
 </p>
 
 ---
